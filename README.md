@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hello, my name is Andrii! I am a student at The Country Day School (King, ON).<br>I have been involved in web development since I was 12 and have completed<br>courses such as Harvard CS50x and CS50w. I strive to continuously enhance<br>my skills and explore new fields. Welcome to my GitHub profile, where you can<br>explore my projects!
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
