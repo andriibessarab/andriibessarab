@@ -8,4 +8,4 @@
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=andriibessarab&color=green)
+![](https://komarev.com/ghpvc/?username=andriibessarab&color=blue)
