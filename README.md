@@ -10,7 +10,7 @@ I'm a first-year **Mechatronics Engineering** student at the **University of Wat
 
 ## 🚀 Projects
 
-Here are a few projects of mine. Check out the [protfolio](https://andriibessarab.com/projects) for more!
+Here are a few projects of mine. Check out the [portfolio](https://andriibessarab.com/projects) for more!
 
 | Preview                                                                                                                                    | Project                          | Description                                                                                                                                                | Tech Stack                                      | Links                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:-----------------------------------------------------------------------------------------------|
