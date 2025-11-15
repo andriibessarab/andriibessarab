@@ -2,7 +2,6 @@
 
 I'm a first-year **Mechatronics Engineering** student at the **University of Waterloo** (Class of 2030) who is interested in software development, robotics, and system design.
 
-- 🚀 Actively seeking **Co-op opportunities** for Winter 2026!
 - 💡 Just competed at **RythmHacks**—securing a win for _Best Use of Algorithm_ with [Draw2Route](https://devpost.com/software/draw2route)!
 - 💻 Currently diving into **SOLIDWORKS & Additive Manufacturing** to expand my knowledge.
 
